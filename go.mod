@@ -1,4 +1,4 @@
-module go.osspkg.com/x/console
+module go.osspkg.com/console
 
 go 1.21
 
