@@ -1,2 +1,2 @@
-go.osspkg.com/errors v0.3.1 h1:F9m/EEd/Ot2jba/TV7tvVRIpWXzIpNLc7vRJKcBD86A=
-go.osspkg.com/errors v0.3.1/go.mod h1:dKXe6Rt07nzY7OyKQNZ8HGBicZ2uQ5TKEoVFnVFOK44=
+go.osspkg.com/errors v0.4.0 h1:E17+WyUzTXEHCTxGm8lOMPOOojzHG1lsOuQtTVGoATQ=
+go.osspkg.com/errors v0.4.0/go.mod h1:s75ZovPemYtrCtRPVsbQNq9MgMbmLMK1NEypr+uwjXI=
